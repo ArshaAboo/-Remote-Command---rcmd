@@ -9,3 +9,5 @@ Allows remote execution of Unix commands with configurable: Number of executions
 TCP implementation supports session termination using a special command (rcend).
 Displays execution time and command output for each run.
 Handles multiple client requests indefinitely on the server side.
+
+Look at description for more details.
